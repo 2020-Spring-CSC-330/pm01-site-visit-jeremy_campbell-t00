@@ -1,12 +1,16 @@
-# PM01: Site visit
+# Team Jeremy Campbell
+**Jeremy Campbell, Tom West, Salem Ben Saad, Azis Toktobaev**
 
-For Project Milestone 01, schedule a site visit with your service learning customer (the community partner you will be working for). The goal of the site visit is to learn more about the organization you will be working with. To truly develop a software application for your customer, you must understand the customer's work, including the people they work with (their customers), the product or service they are producing, and the purpose of the work. 
-
-## Deliverables
-
-Push to this repository by Friday, January 17th with:
-
-1. The date you and your customer agree to the visit. The date you visit does not have to be before Friday, just an agreed upon date by Friday. 
-2. A list of 5 questions you plan to ask your customer during this visit. 
+1. The date you and your customer agree to the visit.
++ __Monday, Jan. 20, 1 pm__
+2. A list of 5 questions you plan to ask your customer during this visit.
++ __Since Grow Appalachia is such a large non profit organization with so many subparts, what are our focus parts of it?__
++ __With the amount of information that we are going to be dealing with is there going to be a non-disclosure agreement?__
++ __How will you address the sensitivity of the data that we will be working with?__
++ __Imagine that you are working with a professional database management company. What do you envision they will create for you given the needs you have?__
++ __How many years worth of data will we be working with?__
 3. The name(s) of the person(s) you will be meeting.
-4. The location of the visit. 
++ __Candace Mullins mullinsc@berea.edu__
+4. The location of the visit.
++ __Grow Appalachia main office, 210 Chestnut St__
+
